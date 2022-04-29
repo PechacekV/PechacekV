@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PechacekV
 - 👀 I’m interested in Wireless Communications, CNC, Home Automation
 - 🌱 I’m currently learning SCADA systems, VPN
-- 💞️ I’m looking to collaborate ontesting something
+- 💞️ I’m looking to collaborate on testing something
 - 📫 How to reach me ...
 
 <!---
